@@ -1,7 +1,7 @@
 site:
     title: "大猪的窝"
-    subtitle: "学习生活和其他"
-    limit: 10
+    subtitle: "学习生活以及吐糟昆明的 IT"
+    limit: 40
     theme: theme
     lang: zh
     url: "http://bigzhu.lorstone.com"
