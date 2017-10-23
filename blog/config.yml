@@ -6,7 +6,7 @@ site:
     lang: zh
     url: "http://bigzhu.lorstone.com"
     comment: bigzhu
-    logo: "-/images/logo.svg"
+    logo: "-/images/logo.png"
     # link: "{category}/{year}/{month}/{day}/{title}.html"
     # root: "/blog"
 
