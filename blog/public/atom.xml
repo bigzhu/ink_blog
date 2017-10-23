@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大猪的窝</title>
   <id>http://bigzhu.lorstone.com</id>
-  <updated>2017-10-23T09:06:12+08:00</updated>
+  <updated>2017-10-23T09:12:29+08:00</updated>
   <subtitle>学习生活以及吐糟昆明的 IT</subtitle>
   <link href="http://bigzhu.lorstone.com"></link>
   <author>
@@ -22,11 +22,51 @@
     <link href="http://bigzhu.lorstone.com/about.me.html"></link>
   </entry>
   <entry>
+    <title>vim 插入当前时间</title>
+    <updated>2017-10-22T22:17:29+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/vim 插入当前时间.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/vim 插入当前时间.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>bigzhu</title>
+    <updated>2017-10-22T21:30:54+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/bigzhu.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/bigzhu.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>健身计划</title>
+    <updated>2017-10-22T16:35:54+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/健身计划.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/健身计划.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
     <title>天才枪手, 幼稚</title>
     <updated>2017-10-22T22:26:09+08:00</updated>
     <id>tag:bigzhu.lorstone.com,2017-10-22:/天才枪手.html</id>
     <content type="html">&lt;p&gt;天才枪手这个片子太过于幼稚了. 幼稚在方方面面.&lt;/p&gt;&#xA;</content>
     <link href="http://bigzhu.lorstone.com/天才枪手.html"></link>
+  </entry>
+  <entry>
+    <title>房地产价格</title>
+    <updated>2017-10-21T09:16:18+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-21:/房地产价格.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/房地产价格.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
     <title>做的不够好</title>
@@ -36,73 +76,323 @@
     <link href="http://bigzhu.lorstone.com/做的不够好.html"></link>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:4520ae4b-7842-4e9e-b74d-200c0541c40f</id>
+    <title>眼镜度数</title>
+    <updated>2017-10-19T18:29:26+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-19:/眼镜度数.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/ora-01950.html"></link>
+    <link href="http://bigzhu.lorstone.com/眼镜度数.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:2230574b-aaf6-49da-a7ac-fa6560f2eac9</id>
+    <title>tumult hype</title>
+    <updated>2017-10-19T12:28:46+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-19:/tumult hype.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/mplayer: could not connect to socket.html"></link>
+    <link href="http://bigzhu.lorstone.com/tumult hype.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:4e8bd594-f1ce-4322-80ef-38ca90ed38cc</id>
+    <title>碧云栏目</title>
+    <updated>2017-10-15T21:48:59+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-15:/碧云栏目.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/nginx connection refused.html"></link>
+    <link href="http://bigzhu.lorstone.com/碧云栏目.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:709ee8be-9b24-4a46-af7e-2772d1c46649</id>
+    <title>麦德龙时间计划</title>
+    <updated>2017-10-15T20:20:36+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-15:/麦德龙时间计划.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/python list 排序.html"></link>
+    <link href="http://bigzhu.lorstone.com/麦德龙时间计划.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:a9db33de-4acd-4367-8679-be39e0acc5bc</id>
+    <title>lvpin 总结</title>
+    <updated>2017-10-10T12:03:22+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-10:/lvpin 总结.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/vmstat avm free 的含义.html"></link>
+    <link href="http://bigzhu.lorstone.com/lvpin 总结.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:950418d0-9438-495c-9de9-0cdebae8030a</id>
+    <title>gts 上线前修改</title>
+    <updated>2017-09-25T14:49:41+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-25:/gts 上线前修改.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/dip.html"></link>
+    <link href="http://bigzhu.lorstone.com/gts 上线前修改.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:466433be-b51b-4d32-8763-841a5040dd13</id>
+    <title>区块链</title>
+    <updated>2017-09-24T23:06:54+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-24:/区块链.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/分配角色规划.html"></link>
+    <link href="http://bigzhu.lorstone.com/区块链.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:5abd2f13-cfa2-4803-a969-aa6c22bca3aa</id>
+    <title>减肥有多难? 实操篇</title>
+    <updated>2017-09-24T17:15:37+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-24:/减肥有多难</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/css block inline inline-block.html"></link>
+    <link href="http://bigzhu.lorstone.com/减肥有多难? 实操篇.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:54d03850-600e-4787-b241-c83f28b73c59</id>
+    <title>用 Raven.js 来跟踪 vue.js 的错误</title>
+    <updated>2017-09-20T14:22:17+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-20:/用 raven.js 来跟踪 vue.js 的错误.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/bigzhu 的个人站.html"></link>
+    <link href="http://bigzhu.lorstone.com/用 raven.js 来跟踪 vue.js 的错误.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
-    <title></title>
-    <updated></updated>
-    <id>urn:uuid:4802e923-c5c4-4118-91ea-2dad9716f3e6</id>
+    <title>怎么全局的监听 fetch 事件</title>
+    <updated>2017-09-17T22:52:49+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-17:/怎么全局的监听 fetch 事件.html</id>
     <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/迪米特法则.html"></link>
+    <link href="http://bigzhu.lorstone.com/怎么全局的监听 fetch 事件.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>microweber 拖拽式 cms</title>
+    <updated>2017-09-15T17:09:49+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-15:/microweber 拖拽式 cms.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/microweber 拖拽式 cms.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>october</title>
+    <updated>2017-09-15T14:32:52+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-15:/october.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/october.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>python 程序员学 go 的感受</title>
+    <updated>2017-09-12T15:39:25+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-12:/python 程序员学 go 的感受.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/python 程序员学 go 的感受.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>go 的 markdown 转 html 打开锚点</title>
+    <updated>2017-09-12T13:37:02+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-12:/go 的 markdown 转 html 打开锚点.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/go 的 markdown 转 html 打开锚点.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>律品大章鱼部署</title>
+    <updated>2017-09-11T11:27:27+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-11:/律品大章鱼部署.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/律品大章鱼部署.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>go 学习</title>
+    <updated>2017-09-10T22:52:47+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-10:/go 学习.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/go 学习.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>rsync 删除对方</title>
+    <updated>2017-09-07T19:08:41+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-07:/rsync 删除对方.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/rsync 删除对方.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>API接口设计规范</title>
+    <updated>2017-09-07T09:56:08+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-07:/api接口设计规范.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/api接口设计规范.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>vim 设置插入模式使用不同的光标</title>
+    <updated>2017-09-06T13:49:55+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-06:/vim 设置插入模式使用不同的光标.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/vim 设置插入模式使用不同的光标.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ubuntu hotkey</title>
+    <updated>2017-09-06T13:38:47+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-09-06:/ubuntu hotkey.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/ubuntu hotkey.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>调查</title>
+    <updated>2017-08-31T18:27:11+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-31:/调查.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/调查.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>关于简历</title>
+    <updated>2017-08-27T11:32:29+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-27:/关于简历.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/关于简历.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ubuntu设置开机启动项目</title>
+    <updated>2017-08-24T10:02:06+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-24:/ubuntu设置开机启动项目.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/ubuntu设置开机启动项目.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>减肥有多难? 就一个月搞定</title>
+    <updated>2017-08-23T17:45:31+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-23:/减肥有多难</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/减肥有多难? 就一个月搞定.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>用 vimdiff 来 merge git 的冲突</title>
+    <updated>2017-08-22T15:22:57+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-22:/用 vimdiff 来 merge git 的冲突.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/用 vimdiff 来 merge git 的冲突.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ubuntu 下把 hhkb 热键设置的和 mac 下一样</title>
+    <updated>2017-08-22T14:50:59+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-22:/ubuntu 下把 hhkb 热键设置的和 mac 下一样.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/ubuntu 下把 hhkb 热键设置的和 mac 下一样.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sudo 不再输入密码</title>
+    <updated>2017-08-15T13:42:46+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-15:/sudo 不再输入密码.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/sudo 不再输入密码.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>用shadownsocks来proxy npm</title>
+    <updated>2017-08-15T11:05:23+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-15:/用shadownsocks来proxy npm.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/用shadownsocks来proxy npm.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>开挂这事之吃</title>
+    <updated>2017-08-12T15:36:49+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-12:/开挂这事之吃.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/开挂这事之吃.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>python 输出 log 和 error 到不同文件中</title>
+    <updated>2017-08-10T22:34:35+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-10:/python 输出 log 和 error 到不同文件中.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/python 输出 log 和 error 到不同文件中.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>python 查内存泄露</title>
+    <updated>2017-08-09T23:29:17+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-08-09:/python 查内存泄露.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/python 查内存泄露.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>MQL5 学习</title>
+    <updated>2017-07-22T21:01:55+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-07-22:/mql5 学习.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/mql5 学习.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
 </feed>
