@@ -1,30 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大猪的窝</title>
   <id>http://bigzhu.lorstone.com</id>
-  <updated>2017-10-22T16:49:53+08:00</updated>
-  <subtitle>学习生活和其他</subtitle>
+  <updated>2017-10-23T09:06:12+08:00</updated>
+  <subtitle>学习生活以及吐糟昆明的 IT</subtitle>
   <link href="http://bigzhu.lorstone.com"></link>
   <author>
     <name>大猪的窝</name>
   </author>
   <entry>
-    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2016-07-11:/ink-blog-tool.html</id>
-    <content type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</content>
-    <link href="http://bigzhu.lorstone.com/ink-blog-tool.html"></link>
-    <author>
-      <name>bigzhu</name>
-    </author>
+    <title>更新 blog 框架</title>
+    <updated>2017-10-22T22:49:09+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/更新 blog 框架.html</id>
+    <content type="html">&lt;h2&gt;前因&lt;/h2&gt;&#xA;&#xA;&lt;p&gt;之前的文章:&lt;a href=&#34;做的不够好&#34;&gt;做的不够好&lt;/a&gt;里我表示了对&lt;a href=&#34;http://www.chole.io/&#34;&gt;纸小墨&lt;/a&gt;的极度欣赏, 可惜的是有一些功能是我所不喜的&amp;hellip;&lt;/p&gt;&#xA;</content>
+    <link href="http://bigzhu.lorstone.com/更新 blog 框架.html"></link>
   </entry>
   <entry>
-    <title>An Elegant Static Blog Generator —— InkPaper</title>
-    <updated>2016-07-11T17:00:00+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2016-07-11:/ink-blog-tool-en.html</id>
-    <content type="html">&lt;p&gt;InkPaper is an static blog generator developed by Golang, No dependencies, Cross platform, Easy use, Fast build, Elegant theme.&lt;/p&gt;&#xA;</content>
-    <link href="http://bigzhu.lorstone.com/ink-blog-tool-en.html"></link>
-    <author>
-      <name>bigzhu</name>
-    </author>
+    <title>bigzhu 是哪个?</title>
+    <updated>2017-10-22T22:19:19+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/about.me.html</id>
+    <content type="html">&lt;h2&gt;Everything is learnable&lt;/h2&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.lorstone.com/&#34;&gt;络石软件设计&lt;/a&gt; 发起人&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://follow.center/&#34;&gt;Follow Center&lt;/a&gt; 开发者&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;目前在昆明 &lt;del&gt;IT 荒原开荒中.&lt;/del&gt; 无所事事, 欢迎外包和项目合作&lt;/p&gt;&#xA;</content>
+    <link href="http://bigzhu.lorstone.com/about.me.html"></link>
+  </entry>
+  <entry>
+    <title>天才枪手, 幼稚</title>
+    <updated>2017-10-22T22:26:09+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/天才枪手.html</id>
+    <content type="html">&lt;p&gt;天才枪手这个片子太过于幼稚了. 幼稚在方方面面.&lt;/p&gt;&#xA;</content>
+    <link href="http://bigzhu.lorstone.com/天才枪手.html"></link>
+  </entry>
+  <entry>
+    <title>做的不够好</title>
+    <updated>2017-10-22T22:19:19+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-22:/做的不够好.html</id>
+    <content type="html">&lt;p&gt;在 v2ex 上看到 &lt;a href=&#34;https://www.v2ex.com/t/393185?p=7&#34;&gt;纸小墨&lt;/a&gt;, 这是一个基于 markdown 的静态博客构建工具, 也是一个side project, 作者带着团队持续几年在改进, 也有很多朋友在帮他, 目前做的非常好, 完成度也很高. 有兴趣的朋友可以看这里: &lt;a href=&#34;http://www.chole.io/&#34;&gt;http://www.chole.io/&lt;/a&gt;&lt;/p&gt;&#xA;</content>
+    <link href="http://bigzhu.lorstone.com/做的不够好.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:4520ae4b-7842-4e9e-b74d-200c0541c40f</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/ora-01950.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:2230574b-aaf6-49da-a7ac-fa6560f2eac9</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/mplayer: could not connect to socket.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:4e8bd594-f1ce-4322-80ef-38ca90ed38cc</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/nginx connection refused.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:709ee8be-9b24-4a46-af7e-2772d1c46649</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/python list 排序.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:a9db33de-4acd-4367-8679-be39e0acc5bc</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/vmstat avm free 的含义.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:950418d0-9438-495c-9de9-0cdebae8030a</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/dip.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:466433be-b51b-4d32-8763-841a5040dd13</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/分配角色规划.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:5abd2f13-cfa2-4803-a969-aa6c22bca3aa</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/css block inline inline-block.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:54d03850-600e-4787-b241-c83f28b73c59</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/bigzhu 的个人站.html"></link>
+  </entry>
+  <entry>
+    <title></title>
+    <updated></updated>
+    <id>urn:uuid:4802e923-c5c4-4118-91ea-2dad9716f3e6</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/迪米特法则.html"></link>
   </entry>
 </feed>
