@@ -1,18 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>大猪的窝</title>
   <id>http://bigzhu.lorstone.com</id>
-  <updated>2017-10-23T09:12:29+08:00</updated>
+  <updated>2017-11-03T11:02:57+08:00</updated>
   <subtitle>学习生活以及吐糟昆明的 IT</subtitle>
   <link href="http://bigzhu.lorstone.com"></link>
   <author>
     <name>大猪的窝</name>
   </author>
   <entry>
+    <title>gots 工时</title>
+    <updated>2017-11-01T20:47:00+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-11-01:/gots 工时.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/gots 工时.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>构建自已的知识系统</title>
+    <updated>2017-10-31T10:39:01+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-31:/构建自已的知识系统.html</id>
+    <content type="html">&lt;p&gt;在知乎的&lt;a href=&#34;https://zhuanlan.zhihu.com/bigzhu&#34;&gt;专栏&lt;/a&gt;里写了对昆明 IT 环境的吐糟, 结果有不少迷茫的大学生和应届生找我咨询.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;与其说具体的事, 说昆明的 IT 公司哪家行, 哪家不行, 实在是意义不大. 不如授之与渔, 无论是不是在昆明干 IT, 甚至是不是干 IT, &lt;em&gt;渔&lt;/em&gt; 都会很有用, 可以伴随一生.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;这篇我认为最重要的*渔*之一: 构建自已的知识系统&lt;/p&gt;&#xA;</content>
+    <link href="http://bigzhu.lorstone.com/构建自已的知识系统.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>2017年10月31日总结</title>
+    <updated>2017-10-31T09:31:37+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-31:/2017年10月31日总结.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/2017年10月31日总结.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
+    <title>举铁界最性感的护士</title>
+    <updated>2017-10-24T17:38:39+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-24:/举铁界最性感的护士.html</id>
+    <content type="html">&lt;p&gt;嗯, 美女, 并不是什么庸俗的内容啦, 我推荐的都是很有 bigger 的&lt;/p&gt;&#xA;</content>
+    <link href="http://bigzhu.lorstone.com/举铁界最性感的护士.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
     <title>更新 blog 框架</title>
     <updated>2017-10-22T22:49:09+08:00</updated>
     <id>tag:bigzhu.lorstone.com,2017-10-22:/更新 blog 框架.html</id>
     <content type="html">&lt;h2&gt;前因&lt;/h2&gt;&#xA;&#xA;&lt;p&gt;之前的文章:&lt;a href=&#34;做的不够好&#34;&gt;做的不够好&lt;/a&gt;里我表示了对&lt;a href=&#34;http://www.chole.io/&#34;&gt;纸小墨&lt;/a&gt;的极度欣赏, 可惜的是有一些功能是我所不喜的&amp;hellip;&lt;/p&gt;&#xA;</content>
     <link href="http://bigzhu.lorstone.com/更新 blog 框架.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
     <title>bigzhu 是哪个?</title>
@@ -20,6 +63,9 @@
     <id>tag:bigzhu.lorstone.com,2017-10-22:/about.me.html</id>
     <content type="html">&lt;h2&gt;Everything is learnable&lt;/h2&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.lorstone.com/&#34;&gt;络石软件设计&lt;/a&gt; 发起人&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://follow.center/&#34;&gt;Follow Center&lt;/a&gt; 开发者&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;p&gt;目前在昆明 &lt;del&gt;IT 荒原开荒中.&lt;/del&gt; 无所事事, 欢迎外包和项目合作&lt;/p&gt;&#xA;</content>
     <link href="http://bigzhu.lorstone.com/about.me.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
   </entry>
   <entry>
     <title>vim 插入当前时间</title>
@@ -32,38 +78,11 @@
     </author>
   </entry>
   <entry>
-    <title>bigzhu</title>
-    <updated>2017-10-22T21:30:54+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2017-10-22:/bigzhu.html</id>
-    <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/bigzhu.html"></link>
-    <author>
-      <name>bigzhu</name>
-    </author>
-  </entry>
-  <entry>
-    <title>健身计划</title>
-    <updated>2017-10-22T16:35:54+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2017-10-22:/健身计划.html</id>
-    <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/健身计划.html"></link>
-    <author>
-      <name>bigzhu</name>
-    </author>
-  </entry>
-  <entry>
     <title>天才枪手, 幼稚</title>
     <updated>2017-10-22T22:26:09+08:00</updated>
     <id>tag:bigzhu.lorstone.com,2017-10-22:/天才枪手.html</id>
     <content type="html">&lt;p&gt;天才枪手这个片子太过于幼稚了. 幼稚在方方面面.&lt;/p&gt;&#xA;</content>
     <link href="http://bigzhu.lorstone.com/天才枪手.html"></link>
-  </entry>
-  <entry>
-    <title>房地产价格</title>
-    <updated>2017-10-21T09:16:18+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2017-10-21:/房地产价格.html</id>
-    <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/房地产价格.html"></link>
     <author>
       <name>bigzhu</name>
     </author>
@@ -316,6 +335,16 @@
     </author>
   </entry>
   <entry>
+    <title>健身计划</title>
+    <updated>2017-10-25T10:35:12+08:00</updated>
+    <id>tag:bigzhu.lorstone.com,2017-10-25:/健身计划.html</id>
+    <content type="html"></content>
+    <link href="http://bigzhu.lorstone.com/健身计划.html"></link>
+    <author>
+      <name>bigzhu</name>
+    </author>
+  </entry>
+  <entry>
     <title>用 vimdiff 来 merge git 的冲突</title>
     <updated>2017-08-22T15:22:57+08:00</updated>
     <id>tag:bigzhu.lorstone.com,2017-08-22:/用 vimdiff 来 merge git 的冲突.html</id>
@@ -371,26 +400,6 @@
     <id>tag:bigzhu.lorstone.com,2017-08-10:/python 输出 log 和 error 到不同文件中.html</id>
     <content type="html"></content>
     <link href="http://bigzhu.lorstone.com/python 输出 log 和 error 到不同文件中.html"></link>
-    <author>
-      <name>bigzhu</name>
-    </author>
-  </entry>
-  <entry>
-    <title>python 查内存泄露</title>
-    <updated>2017-08-09T23:29:17+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2017-08-09:/python 查内存泄露.html</id>
-    <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/python 查内存泄露.html"></link>
-    <author>
-      <name>bigzhu</name>
-    </author>
-  </entry>
-  <entry>
-    <title>MQL5 学习</title>
-    <updated>2017-07-22T21:01:55+08:00</updated>
-    <id>tag:bigzhu.lorstone.com,2017-07-22:/mql5 学习.html</id>
-    <content type="html"></content>
-    <link href="http://bigzhu.lorstone.com/mql5 学习.html"></link>
     <author>
       <name>bigzhu</name>
     </author>
