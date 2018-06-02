@@ -23,7 +23,7 @@
                     {{end}}
                     <span class="tags">{{range .Tags}}<a class="tag" href="{{$.Site.Root}}/tag/{{.}}/index.html">{{.}}</a>{{end}}</span>
                 </section>
-                <article class="content">{{.Content}}</article>
+                <article class="content js-toc-content">{{.Content}}</article>
                 <section class="author">
                     {{if .Author.Avatar}}<div class="avatar" style="background-image: url({{.Author.Avatar}});"></div>{{end}}
                     <a class="name" href="{{.Site.Root}}/about.{{.Author.Id}}.html">{{.Author.Name}}</a>
@@ -46,6 +46,7 @@
                 {{template "comment" .}}
             </article>
         </article>
+        <toc class="js-toc"></toc>
         {{template "footer" .}}
         <script src="{{.Site.Root}}/bundle/index.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.1.1/tocbot.min.js"></script>
