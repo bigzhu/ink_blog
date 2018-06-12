@@ -6,6 +6,7 @@
         <meta name="description" content="{{.Title}}">
         <meta name="author" content="{{.Author.Name}}">
         <title>{{.Title}}</title>
+        <link rel="stylesheet" href="{{.Site.Root}}/bundle/tocbot.css">
     </head>
     <body>
         <article class="container">
@@ -22,7 +23,7 @@
                     {{end}}
                     <span class="tags">{{range .Tags}}<a class="tag" href="{{$.Site.Root}}/tag/{{.}}/index.html">{{.}}</a>{{end}}</span>
                 </section>
-                <article class="content">{{.Content}}</article>
+                <article class="content js-toc-content">{{.Content}}</article>
                 <section class="author">
                     {{if .Author.Avatar}}<div class="avatar" style="background-image: url({{.Author.Avatar}});"></div>{{end}}
                     <a class="name" href="{{.Site.Root}}/about.{{.Author.Id}}.html">{{.Author.Name}}</a>
@@ -47,5 +48,30 @@
         </article>
         {{template "footer" .}}
         <script src="{{.Site.Root}}/bundle/index.js"></script>
+
+        <script src="{{.Site.Root}}/bundle/tocbot.min.js"></script>
+        <nav class="js-toc toc"></nav>
+        <script type="text/javascript">
+            tocbot.init({
+              // Where to render the table of contents.
+              tocSelector: '.js-toc',
+              // Where to grab the headings to build the table of contents.
+              contentSelector: '.js-toc-content',
+              // Which headings to grab inside of the contentSelector element.
+              headingSelector: 'h1, h2, h3',
+            });
+       </script>
+       <style>
+        .js-toc {
+          position: fixed;
+          left: 2rem;
+          top: 5rem;
+        }
+        @media all and (max-width: 1200px) {
+          .js-toc {
+              display: none;
+          }
+        }
+       </style>
     </body>
 </html>
